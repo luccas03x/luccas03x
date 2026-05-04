@@ -21,8 +21,13 @@ Currently looking for an internship opportunity where I can grow, learn fast, an
 
 ## 🧠 Tech Stack
 
-* HTML • CSS • JavaScript • Python
+* HTML
+* CSS
+* JavaScript
+* Python
 
 ## 📫 Contact
 
-* [LinkedIn](https://www.linkedin.com/in/luccas-alberto-geraldes-andrade-983828230/) • [Portfolio](https://luccas03x.github.io/Portfolio/) • [Instagram](https://www.instagram.com/seuuser)
+* [LinkedIn](https://www.linkedin.com/in/luccas-alberto-geraldes-andrade-983828230/)
+* [Portfolio](https://luccas03x.github.io/Portfolio/)
+* [Instagram](https://www.instagram.com/seuuser)
