@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🧠 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
