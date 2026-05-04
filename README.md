@@ -25,4 +25,4 @@ Currently looking for an internship opportunity where I can grow, learn fast, an
 
 ## 📫 Contact
 
-* [LinkedIn]([https://seu-link](https://www.linkedin.com/in/luccas-alberto-geraldes-andrade-983828230/)) • [Portfolio]([https://seu-link](https://luccas03x.github.io/Portfolio/)) • [Instagram]([https://seu-link](https://www.instagram.com/))
+* [LinkedIn](https://www.linkedin.com/in/luccas-alberto-geraldes-andrade-983828230/) • [Portfolio](https://luccas03x.github.io/Portfolio/) • [Instagram](https://www.instagram.com/seuuser)
