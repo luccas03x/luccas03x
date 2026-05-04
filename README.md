@@ -19,7 +19,7 @@ I'm a Software Engineering student with a technical background in IT, focused on
 I enjoy building clean, responsive interfaces and turning ideas into real, user-focused applications.
 Currently looking for an internship opportunity where I can grow, learn fast, and contribute to real projects.
 
-## 🧠 Tech Stack
+## 🤖 Tech Stack
 
 * HTML
 * CSS
