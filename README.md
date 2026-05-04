@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **luccas03x/luccas03x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧠 Tecnologias
+# 👋 Hi, I'm Luccas Andrade
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+I'm a Software Engineering student with a technical background in IT, focused on web development and especially interested in front-end.
+I enjoy building clean, responsive interfaces and turning ideas into real, user-focused applications.
+Currently looking for an internship opportunity where I can grow, learn fast, and contribute to real projects.
+
+---
+
+## 🧠 Tech Stack
+
+* HTML • CSS • JavaScript • Python
+
+---
+
+## 📫 Contact
+
+* [LinkedIn]([https://seu-link](https://www.linkedin.com/in/luccas-alberto-geraldes-andrade-983828230/)) • [Portfolio]([https://seu-link](https://luccas03x.github.io/Portfolio/)) • [Instagram]([https://seu-link](https://www.instagram.com/))
